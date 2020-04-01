@@ -12,9 +12,12 @@
 ![](https://github.com/CQU2020/-/blob/ars1886ars-photoes/%E8%AE%A1%E7%AE%97%E5%99%A81.PNG)
 计算sin值
 ![](https://github.com/CQU2020/-/blob/ars1886ars-photoes/%E8%AE%A1%E7%AE%97%E5%99%A83.PNG)
+
 计算cos值
 ![](https://github.com/CQU2020/-/blob/ars1886ars-photoes/%E8%AE%A1%E7%AE%97%E5%99%A84.PNG)
+
 计算tan值
 ![](https://github.com/CQU2020/-/blob/ars1886ars-photoes/%E8%AE%A1%E7%AE%97%E5%99%A85.PNG)
+
 点击"="号，一个小彩蛋吧
 ![](https://github.com/CQU2020/-/blob/ars1886ars-photoes/%E8%AE%A1%E7%AE%97%E5%99%A86.PNG)
